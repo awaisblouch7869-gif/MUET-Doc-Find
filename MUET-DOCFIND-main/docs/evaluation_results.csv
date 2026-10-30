@@ -1,0 +1,49 @@
+query_id,query,method,strategy,answerable,relevant_ids,top3_ids,relevant_hits_at_3,recall_at_3,no_evidence_correct
+Q01,linked lists,linear,shared-term count,True,P002;P027,P002;P027;P028,2,1.0,
+Q01,linked lists,linear,normalized coverage,True,P002;P027,P002;P027;P148,2,1.0,
+Q01,linked lists,index,shared-term count,True,P002;P027,P002;P027;P028,2,1.0,
+Q01,linked lists,index,normalized coverage,True,P002;P027,P002;P027;P148,2,1.0,
+Q02,binary search,linear,shared-term count,True,P010,P010;P006;P009,1,1.0,
+Q02,binary search,linear,normalized coverage,True,P010,P010;P134;P150,1,1.0,
+Q02,binary search,index,shared-term count,True,P010,P010;P006;P009,1,1.0,
+Q02,binary search,index,normalized coverage,True,P010,P010;P134;P150,1,1.0,
+Q03,hash functions,linear,shared-term count,True,P024,P024;P005;P091,1,1.0,
+Q03,hash functions,linear,normalized coverage,True,P024,P024;P091;P005,1,1.0,
+Q03,hash functions,index,shared-term count,True,P024,P024;P005;P091,1,1.0,
+Q03,hash functions,index,normalized coverage,True,P024,P024;P091;P005,1,1.0,
+Q04,test boundary values,linear,shared-term count,True,P050,P050;P033;P037,1,1.0,
+Q04,test boundary values,linear,normalized coverage,True,P050,P050;P038;P090,1,1.0,
+Q04,test boundary values,index,shared-term count,True,P050,P050;P033;P037,1,1.0,
+Q04,test boundary values,index,normalized coverage,True,P050,P050;P038;P090,1,1.0,
+Q05,midterm examination,linear,shared-term count,True,P061,P061;P062;P063,1,1.0,
+Q05,midterm examination,linear,normalized coverage,True,P061,P061;P062;P065,1,1.0,
+Q05,midterm examination,index,shared-term count,True,P061,P061;P062;P063,1,1.0,
+Q05,midterm examination,index,normalized coverage,True,P061,P061;P062;P065,1,1.0,
+Q06,Python functions,linear,shared-term count,True,P091,P091;P024,1,1.0,
+Q06,Python functions,linear,normalized coverage,True,P091,P091;P024,1,1.0,
+Q06,Python functions,index,shared-term count,True,P091,P091;P024,1,1.0,
+Q06,Python functions,index,normalized coverage,True,P091,P091;P024,1,1.0,
+Q07,object oriented programming,linear,shared-term count,True,P092,P092;P091;P093,1,1.0,
+Q07,object oriented programming,linear,normalized coverage,True,P092,P092;P109;P112,1,1.0,
+Q07,object oriented programming,index,shared-term count,True,P092,P092;P091;P093,1,1.0,
+Q07,object oriented programming,index,normalized coverage,True,P092,P092;P109;P112,1,1.0,
+Q08,file operations,linear,shared-term count,True,P096,P096;P054;P102,1,1.0,
+Q08,file operations,linear,normalized coverage,True,P096,P096;P102;P103,1,1.0,
+Q08,file operations,index,shared-term count,True,P096,P096;P054;P102,1,1.0,
+Q08,file operations,index,normalized coverage,True,P096,P096;P102;P103,1,1.0,
+Q09,library membership,linear,shared-term count,True,P142,P142;P121;P122,1,1.0,
+Q09,library membership,linear,normalized coverage,True,P142,P142;P149;P122,1,1.0,
+Q09,library membership,index,shared-term count,True,P142,P142;P121;P122,1,1.0,
+Q09,library membership,index,normalized coverage,True,P142,P142;P149;P122,1,1.0,
+Q10,information retrieval,linear,shared-term count,True,P149,P001;P002;P003,0,0.0,
+Q10,information retrieval,linear,normalized coverage,True,P149,P149;P034;P061,1,1.0,
+Q10,information retrieval,index,shared-term count,True,P149,P001;P002;P003,0,0.0,
+Q10,information retrieval,index,normalized coverage,True,P149,P149;P034;P061,1,1.0,
+Q11,GPU scheduling policy,linear,shared-term count,False,,,0,,True
+Q11,GPU scheduling policy,linear,normalized coverage,False,,,0,,True
+Q11,GPU scheduling policy,index,shared-term count,False,,,0,,True
+Q11,GPU scheduling policy,index,normalized coverage,False,,,0,,True
+Q12,tuition fee refund deadline,linear,shared-term count,False,,,0,,True
+Q12,tuition fee refund deadline,linear,normalized coverage,False,,,0,,True
+Q12,tuition fee refund deadline,index,shared-term count,False,,,0,,True
+Q12,tuition fee refund deadline,index,normalized coverage,False,,,0,,True

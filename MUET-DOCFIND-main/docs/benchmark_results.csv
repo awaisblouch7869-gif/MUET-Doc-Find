@@ -1,0 +1,4 @@
+passages,query,repetitions,index_build_median_us,linear_retrieval_median_us,index_retrieval_median_us,linear_candidates,index_candidates,candidate_ids_match
+25,binary search,31,2248.1,840.2,22.2,5,5,True
+50,binary search,31,8136.6,1927.6,22.2,5,5,True
+100,binary search,31,14042.0,3420.7,24.5,5,5,True

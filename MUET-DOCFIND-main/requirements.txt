@@ -1,0 +1,8 @@
+# DOCFIND - third-party packages (everything else is the Python standard library).
+# Install with:  python -m pip install -r requirements.txt
+
+# Coloured console output in main.py (optional: the program still runs without it).
+colorama>=0.4
+
+# Only needed to re-create the official MUET data from the PDFs (scripts/ folder).
+pypdf>=5.0

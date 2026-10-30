@@ -1,0 +1,1502 @@
+[
+  {
+    "passage_id": "P001",
+    "document_id": "D01",
+    "title": "Data Structures Information (SYNTHETIC)",
+    "category": "Course Contents",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers arrays. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use arrays for practice and review."
+  },
+  {
+    "passage_id": "P002",
+    "document_id": "D01",
+    "title": "Data Structures Information (SYNTHETIC)",
+    "category": "Course Contents",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers linked lists. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use linked lists for practice and review."
+  },
+  {
+    "passage_id": "P003",
+    "document_id": "D01",
+    "title": "Data Structures Information (SYNTHETIC)",
+    "category": "Course Contents",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers stacks. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use stacks for practice and review."
+  },
+  {
+    "passage_id": "P004",
+    "document_id": "D01",
+    "title": "Data Structures Information (SYNTHETIC)",
+    "category": "Course Contents",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers queues. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use queues for practice and review."
+  },
+  {
+    "passage_id": "P005",
+    "document_id": "D01",
+    "title": "Data Structures Information (SYNTHETIC)",
+    "category": "Course Contents",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers hash tables. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use hash tables for practice and review."
+  },
+  {
+    "passage_id": "P006",
+    "document_id": "D02",
+    "title": "Data Structures Information (SYNTHETIC)",
+    "category": "Course Contents",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers binary trees. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use binary trees for practice and review."
+  },
+  {
+    "passage_id": "P007",
+    "document_id": "D02",
+    "title": "Data Structures Information (SYNTHETIC)",
+    "category": "Course Contents",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers graphs. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use graphs for practice and review."
+  },
+  {
+    "passage_id": "P008",
+    "document_id": "D02",
+    "title": "Data Structures Information (SYNTHETIC)",
+    "category": "Course Contents",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers heaps. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use heaps for practice and review."
+  },
+  {
+    "passage_id": "P009",
+    "document_id": "D02",
+    "title": "Data Structures Information (SYNTHETIC)",
+    "category": "Course Contents",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers linear search. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use linear search for practice and review."
+  },
+  {
+    "passage_id": "P010",
+    "document_id": "D02",
+    "title": "Data Structures Information (SYNTHETIC)",
+    "category": "Course Contents",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers binary search. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use binary search for practice and review."
+  },
+  {
+    "passage_id": "P011",
+    "document_id": "D03",
+    "title": "Data Structures Information (SYNTHETIC)",
+    "category": "Course Contents",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers bubble sort. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use bubble sort for practice and review."
+  },
+  {
+    "passage_id": "P012",
+    "document_id": "D03",
+    "title": "Data Structures Information (SYNTHETIC)",
+    "category": "Course Contents",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers merge sort. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use merge sort for practice and review."
+  },
+  {
+    "passage_id": "P013",
+    "document_id": "D03",
+    "title": "Data Structures Information (SYNTHETIC)",
+    "category": "Course Contents",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers quick sort. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use quick sort for practice and review."
+  },
+  {
+    "passage_id": "P014",
+    "document_id": "D03",
+    "title": "Data Structures Information (SYNTHETIC)",
+    "category": "Course Contents",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers recursion. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use recursion for practice and review."
+  },
+  {
+    "passage_id": "P015",
+    "document_id": "D03",
+    "title": "Data Structures Information (SYNTHETIC)",
+    "category": "Course Contents",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v2",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers time complexity. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use time complexity for practice and review."
+  },
+  {
+    "passage_id": "P016",
+    "document_id": "D04",
+    "title": "Data Structures Information (SYNTHETIC)",
+    "category": "Course Contents",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers space complexity. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use space complexity for practice and review."
+  },
+  {
+    "passage_id": "P017",
+    "document_id": "D04",
+    "title": "Data Structures Information (SYNTHETIC)",
+    "category": "Course Contents",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers insertion sort. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use insertion sort for practice and review."
+  },
+  {
+    "passage_id": "P018",
+    "document_id": "D04",
+    "title": "Data Structures Information (SYNTHETIC)",
+    "category": "Course Contents",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers selection sort. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use selection sort for practice and review."
+  },
+  {
+    "passage_id": "P019",
+    "document_id": "D04",
+    "title": "Data Structures Information (SYNTHETIC)",
+    "category": "Course Contents",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers tree traversal. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use tree traversal for practice and review."
+  },
+  {
+    "passage_id": "P020",
+    "document_id": "D04",
+    "title": "Data Structures Information (SYNTHETIC)",
+    "category": "Course Contents",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers breadth first search. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use breadth first search for practice and review."
+  },
+  {
+    "passage_id": "P021",
+    "document_id": "D05",
+    "title": "Data Structures Information (SYNTHETIC)",
+    "category": "Course Contents",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers depth first search. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use depth first search for practice and review."
+  },
+  {
+    "passage_id": "P022",
+    "document_id": "D05",
+    "title": "Data Structures Information (SYNTHETIC)",
+    "category": "Course Contents",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers priority queues. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use priority queues for practice and review."
+  },
+  {
+    "passage_id": "P023",
+    "document_id": "D05",
+    "title": "Data Structures Information (SYNTHETIC)",
+    "category": "Course Contents",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers collision handling. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use collision handling for practice and review."
+  },
+  {
+    "passage_id": "P024",
+    "document_id": "D05",
+    "title": "Data Structures Information (SYNTHETIC)",
+    "category": "Course Contents",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers hash functions. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use hash functions for practice and review."
+  },
+  {
+    "passage_id": "P025",
+    "document_id": "D05",
+    "title": "Data Structures Information (SYNTHETIC)",
+    "category": "Course Contents",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers dynamic arrays. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use dynamic arrays for practice and review."
+  },
+  {
+    "passage_id": "P026",
+    "document_id": "D06",
+    "title": "Data Structures Information (SYNTHETIC)",
+    "category": "Course Contents",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers circular queues. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use circular queues for practice and review."
+  },
+  {
+    "passage_id": "P027",
+    "document_id": "D06",
+    "title": "Data Structures Information (SYNTHETIC)",
+    "category": "Course Contents",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers doubly linked lists. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use doubly linked lists for practice and review."
+  },
+  {
+    "passage_id": "P028",
+    "document_id": "D06",
+    "title": "Data Structures Information (SYNTHETIC)",
+    "category": "Course Contents",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers adjacency lists. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use adjacency lists for practice and review."
+  },
+  {
+    "passage_id": "P029",
+    "document_id": "D06",
+    "title": "Data Structures Information (SYNTHETIC)",
+    "category": "Course Contents",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers minimum spanning trees. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use minimum spanning trees for practice and review."
+  },
+  {
+    "passage_id": "P030",
+    "document_id": "D06",
+    "title": "Data Structures Information (SYNTHETIC)",
+    "category": "Course Contents",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers shortest paths. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use shortest paths for practice and review."
+  },
+  {
+    "passage_id": "P031",
+    "document_id": "D07",
+    "title": "Laboratory Information (SYNTHETIC)",
+    "category": "Laboratory Rules",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers save lab files. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use save lab files for practice and review."
+  },
+  {
+    "passage_id": "P032",
+    "document_id": "D07",
+    "title": "Laboratory Information (SYNTHETIC)",
+    "category": "Laboratory Rules",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers submit assignments. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use submit assignments for practice and review."
+  },
+  {
+    "passage_id": "P033",
+    "document_id": "D07",
+    "title": "Laboratory Information (SYNTHETIC)",
+    "category": "Laboratory Rules",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers test program output. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use test program output for practice and review."
+  },
+  {
+    "passage_id": "P034",
+    "document_id": "D07",
+    "title": "Laboratory Information (SYNTHETIC)",
+    "category": "Laboratory Rules",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers document errors. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use document errors for practice and review."
+  },
+  {
+    "passage_id": "P035",
+    "document_id": "D07",
+    "title": "Laboratory Information (SYNTHETIC)",
+    "category": "Laboratory Rules",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers follow lab instructions. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use follow lab instructions for practice and review."
+  },
+  {
+    "passage_id": "P036",
+    "document_id": "D08",
+    "title": "Laboratory Information (SYNTHETIC)",
+    "category": "Laboratory Rules",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers organize source code. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use organize source code for practice and review."
+  },
+  {
+    "passage_id": "P037",
+    "document_id": "D08",
+    "title": "Laboratory Information (SYNTHETIC)",
+    "category": "Laboratory Rules",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers check input values. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use check input values for practice and review."
+  },
+  {
+    "passage_id": "P038",
+    "document_id": "D08",
+    "title": "Laboratory Information (SYNTHETIC)",
+    "category": "Laboratory Rules",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers review test cases. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use review test cases for practice and review."
+  },
+  {
+    "passage_id": "P039",
+    "document_id": "D08",
+    "title": "Laboratory Information (SYNTHETIC)",
+    "category": "Laboratory Rules",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers record observations. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use record observations for practice and review."
+  },
+  {
+    "passage_id": "P040",
+    "document_id": "D08",
+    "title": "Laboratory Information (SYNTHETIC)",
+    "category": "Laboratory Rules",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers back up project files. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use back up project files for practice and review."
+  },
+  {
+    "passage_id": "P041",
+    "document_id": "D09",
+    "title": "Laboratory Information (SYNTHETIC)",
+    "category": "Laboratory Rules",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers use meaningful filenames. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use use meaningful filenames for practice and review."
+  },
+  {
+    "passage_id": "P042",
+    "document_id": "D09",
+    "title": "Laboratory Information (SYNTHETIC)",
+    "category": "Laboratory Rules",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers compile before submission. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use compile before submission for practice and review."
+  },
+  {
+    "passage_id": "P043",
+    "document_id": "D09",
+    "title": "Laboratory Information (SYNTHETIC)",
+    "category": "Laboratory Rules",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers check expected output. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use check expected output for practice and review."
+  },
+  {
+    "passage_id": "P044",
+    "document_id": "D09",
+    "title": "Laboratory Information (SYNTHETIC)",
+    "category": "Laboratory Rules",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers write test cases. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use write test cases for practice and review."
+  },
+  {
+    "passage_id": "P045",
+    "document_id": "D09",
+    "title": "Laboratory Information (SYNTHETIC)",
+    "category": "Laboratory Rules",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers maintain a lab notebook. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use maintain a lab notebook for practice and review."
+  },
+  {
+    "passage_id": "P046",
+    "document_id": "D10",
+    "title": "Laboratory Information (SYNTHETIC)",
+    "category": "Laboratory Rules",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers report technical problems. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use report technical problems for practice and review."
+  },
+  {
+    "passage_id": "P047",
+    "document_id": "D10",
+    "title": "Laboratory Information (SYNTHETIC)",
+    "category": "Laboratory Rules",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers verify program results. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use verify program results for practice and review."
+  },
+  {
+    "passage_id": "P048",
+    "document_id": "D10",
+    "title": "Laboratory Information (SYNTHETIC)",
+    "category": "Laboratory Rules",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers read error messages. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use read error messages for practice and review."
+  },
+  {
+    "passage_id": "P049",
+    "document_id": "D10",
+    "title": "Laboratory Information (SYNTHETIC)",
+    "category": "Laboratory Rules",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers keep project folders organized. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use keep project folders organized for practice and review."
+  },
+  {
+    "passage_id": "P050",
+    "document_id": "D10",
+    "title": "Laboratory Information (SYNTHETIC)",
+    "category": "Laboratory Rules",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers test boundary values. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use test boundary values for practice and review."
+  },
+  {
+    "passage_id": "P051",
+    "document_id": "D11",
+    "title": "Laboratory Information (SYNTHETIC)",
+    "category": "Laboratory Rules",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers avoid duplicate files. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use avoid duplicate files for practice and review."
+  },
+  {
+    "passage_id": "P052",
+    "document_id": "D11",
+    "title": "Laboratory Information (SYNTHETIC)",
+    "category": "Laboratory Rules",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers review source code. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use review source code for practice and review."
+  },
+  {
+    "passage_id": "P053",
+    "document_id": "D11",
+    "title": "Laboratory Information (SYNTHETIC)",
+    "category": "Laboratory Rules",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers document program steps. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use document program steps for practice and review."
+  },
+  {
+    "passage_id": "P054",
+    "document_id": "D11",
+    "title": "Laboratory Information (SYNTHETIC)",
+    "category": "Laboratory Rules",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers check file permissions. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use check file permissions for practice and review."
+  },
+  {
+    "passage_id": "P055",
+    "document_id": "D11",
+    "title": "Laboratory Information (SYNTHETIC)",
+    "category": "Laboratory Rules",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers prepare sample inputs. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use prepare sample inputs for practice and review."
+  },
+  {
+    "passage_id": "P056",
+    "document_id": "D12",
+    "title": "Laboratory Information (SYNTHETIC)",
+    "category": "Laboratory Rules",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers validate user input. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use validate user input for practice and review."
+  },
+  {
+    "passage_id": "P057",
+    "document_id": "D12",
+    "title": "Laboratory Information (SYNTHETIC)",
+    "category": "Laboratory Rules",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers record execution time. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use record execution time for practice and review."
+  },
+  {
+    "passage_id": "P058",
+    "document_id": "D12",
+    "title": "Laboratory Information (SYNTHETIC)",
+    "category": "Laboratory Rules",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers test invalid inputs. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use test invalid inputs for practice and review."
+  },
+  {
+    "passage_id": "P059",
+    "document_id": "D12",
+    "title": "Laboratory Information (SYNTHETIC)",
+    "category": "Laboratory Rules",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers save final versions. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use save final versions for practice and review."
+  },
+  {
+    "passage_id": "P060",
+    "document_id": "D12",
+    "title": "Laboratory Information (SYNTHETIC)",
+    "category": "Laboratory Rules",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers review lab requirements. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use review lab requirements for practice and review."
+  },
+  {
+    "passage_id": "P061",
+    "document_id": "D13",
+    "title": "Examination Information (SYNTHETIC)",
+    "category": "Examination Procedures",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers midterm examination. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use midterm examination for practice and review."
+  },
+  {
+    "passage_id": "P062",
+    "document_id": "D13",
+    "title": "Examination Information (SYNTHETIC)",
+    "category": "Examination Procedures",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers final examination. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use final examination for practice and review."
+  },
+  {
+    "passage_id": "P063",
+    "document_id": "D13",
+    "title": "Examination Information (SYNTHETIC)",
+    "category": "Examination Procedures",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers student identification. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use student identification for practice and review."
+  },
+  {
+    "passage_id": "P064",
+    "document_id": "D13",
+    "title": "Examination Information (SYNTHETIC)",
+    "category": "Examination Procedures",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers exam timetable. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use exam timetable for practice and review."
+  },
+  {
+    "passage_id": "P065",
+    "document_id": "D13",
+    "title": "Examination Information (SYNTHETIC)",
+    "category": "Examination Procedures",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers practice questions. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use practice questions for practice and review."
+  },
+  {
+    "passage_id": "P066",
+    "document_id": "D14",
+    "title": "Examination Information (SYNTHETIC)",
+    "category": "Examination Procedures",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers revision schedule. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use revision schedule for practice and review."
+  },
+  {
+    "passage_id": "P067",
+    "document_id": "D14",
+    "title": "Examination Information (SYNTHETIC)",
+    "category": "Examination Procedures",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers written answers. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use written answers for practice and review."
+  },
+  {
+    "passage_id": "P068",
+    "document_id": "D14",
+    "title": "Examination Information (SYNTHETIC)",
+    "category": "Examination Procedures",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers exam preparation. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use exam preparation for practice and review."
+  },
+  {
+    "passage_id": "P069",
+    "document_id": "D14",
+    "title": "Examination Information (SYNTHETIC)",
+    "category": "Examination Procedures",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers course assessment. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use course assessment for practice and review."
+  },
+  {
+    "passage_id": "P070",
+    "document_id": "D14",
+    "title": "Examination Information (SYNTHETIC)",
+    "category": "Examination Procedures",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers sample paper. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use sample paper for practice and review."
+  },
+  {
+    "passage_id": "P071",
+    "document_id": "D15",
+    "title": "Examination Information (SYNTHETIC)",
+    "category": "Examination Procedures",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers multiple choice questions. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use multiple choice questions for practice and review."
+  },
+  {
+    "passage_id": "P072",
+    "document_id": "D15",
+    "title": "Examination Information (SYNTHETIC)",
+    "category": "Examination Procedures",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers short answer questions. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use short answer questions for practice and review."
+  },
+  {
+    "passage_id": "P073",
+    "document_id": "D15",
+    "title": "Examination Information (SYNTHETIC)",
+    "category": "Examination Procedures",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers long answer questions. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use long answer questions for practice and review."
+  },
+  {
+    "passage_id": "P074",
+    "document_id": "D15",
+    "title": "Examination Information (SYNTHETIC)",
+    "category": "Examination Procedures",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers time management. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use time management for practice and review."
+  },
+  {
+    "passage_id": "P075",
+    "document_id": "D15",
+    "title": "Examination Information (SYNTHETIC)",
+    "category": "Examination Procedures",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers revision notes. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use revision notes for practice and review."
+  },
+  {
+    "passage_id": "P076",
+    "document_id": "D16",
+    "title": "Examination Information (SYNTHETIC)",
+    "category": "Examination Procedures",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers practice exercises. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use practice exercises for practice and review."
+  },
+  {
+    "passage_id": "P077",
+    "document_id": "D16",
+    "title": "Examination Information (SYNTHETIC)",
+    "category": "Examination Procedures",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers exam instructions. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use exam instructions for practice and review."
+  },
+  {
+    "passage_id": "P078",
+    "document_id": "D16",
+    "title": "Examination Information (SYNTHETIC)",
+    "category": "Examination Procedures",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers question paper format. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use question paper format for practice and review."
+  },
+  {
+    "passage_id": "P079",
+    "document_id": "D16",
+    "title": "Examination Information (SYNTHETIC)",
+    "category": "Examination Procedures",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers answer organization. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use answer organization for practice and review."
+  },
+  {
+    "passage_id": "P080",
+    "document_id": "D16",
+    "title": "Examination Information (SYNTHETIC)",
+    "category": "Examination Procedures",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers concept revision. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use concept revision for practice and review."
+  },
+  {
+    "passage_id": "P081",
+    "document_id": "D17",
+    "title": "Examination Information (SYNTHETIC)",
+    "category": "Examination Procedures",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers mock examination. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use mock examination for practice and review."
+  },
+  {
+    "passage_id": "P082",
+    "document_id": "D17",
+    "title": "Examination Information (SYNTHETIC)",
+    "category": "Examination Procedures",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers topic checklist. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use topic checklist for practice and review."
+  },
+  {
+    "passage_id": "P083",
+    "document_id": "D17",
+    "title": "Examination Information (SYNTHETIC)",
+    "category": "Examination Procedures",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers formula review. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use formula review for practice and review."
+  },
+  {
+    "passage_id": "P084",
+    "document_id": "D17",
+    "title": "Examination Information (SYNTHETIC)",
+    "category": "Examination Procedures",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers problem solving practice. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use problem solving practice for practice and review."
+  },
+  {
+    "passage_id": "P085",
+    "document_id": "D17",
+    "title": "Examination Information (SYNTHETIC)",
+    "category": "Examination Procedures",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers past paper practice. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use past paper practice for practice and review."
+  },
+  {
+    "passage_id": "P086",
+    "document_id": "D18",
+    "title": "Examination Information (SYNTHETIC)",
+    "category": "Examination Procedures",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers study timetable. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use study timetable for practice and review."
+  },
+  {
+    "passage_id": "P087",
+    "document_id": "D18",
+    "title": "Examination Information (SYNTHETIC)",
+    "category": "Examination Procedures",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers answer checking. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use answer checking for practice and review."
+  },
+  {
+    "passage_id": "P088",
+    "document_id": "D18",
+    "title": "Examination Information (SYNTHETIC)",
+    "category": "Examination Procedures",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers exam readiness. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use exam readiness for practice and review."
+  },
+  {
+    "passage_id": "P089",
+    "document_id": "D18",
+    "title": "Examination Information (SYNTHETIC)",
+    "category": "Examination Procedures",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers concept summaries. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use concept summaries for practice and review."
+  },
+  {
+    "passage_id": "P090",
+    "document_id": "D18",
+    "title": "Examination Information (SYNTHETIC)",
+    "category": "Examination Procedures",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers practice test results. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use practice test results for practice and review."
+  },
+  {
+    "passage_id": "P091",
+    "document_id": "D19",
+    "title": "Programming Information (SYNTHETIC)",
+    "category": "Programming Skills",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers Python functions. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use Python functions for practice and review."
+  },
+  {
+    "passage_id": "P092",
+    "document_id": "D19",
+    "title": "Programming Information (SYNTHETIC)",
+    "category": "Programming Skills",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers object oriented programming. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use object oriented programming for practice and review."
+  },
+  {
+    "passage_id": "P093",
+    "document_id": "D19",
+    "title": "Programming Information (SYNTHETIC)",
+    "category": "Programming Skills",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers variables and data types. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use variables and data types for practice and review."
+  },
+  {
+    "passage_id": "P094",
+    "document_id": "D19",
+    "title": "Programming Information (SYNTHETIC)",
+    "category": "Programming Skills",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers loops and conditions. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use loops and conditions for practice and review."
+  },
+  {
+    "passage_id": "P095",
+    "document_id": "D19",
+    "title": "Programming Information (SYNTHETIC)",
+    "category": "Programming Skills",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers exception handling. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use exception handling for practice and review."
+  },
+  {
+    "passage_id": "P096",
+    "document_id": "D20",
+    "title": "Programming Information (SYNTHETIC)",
+    "category": "Programming Skills",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers file operations. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use file operations for practice and review."
+  },
+  {
+    "passage_id": "P097",
+    "document_id": "D20",
+    "title": "Programming Information (SYNTHETIC)",
+    "category": "Programming Skills",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers classes and objects. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use classes and objects for practice and review."
+  },
+  {
+    "passage_id": "P098",
+    "document_id": "D20",
+    "title": "Programming Information (SYNTHETIC)",
+    "category": "Programming Skills",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers debugging code. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use debugging code for practice and review."
+  },
+  {
+    "passage_id": "P099",
+    "document_id": "D20",
+    "title": "Programming Information (SYNTHETIC)",
+    "category": "Programming Skills",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers algorithm analysis. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use algorithm analysis for practice and review."
+  },
+  {
+    "passage_id": "P100",
+    "document_id": "D20",
+    "title": "Programming Information (SYNTHETIC)",
+    "category": "Programming Skills",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers unit testing. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use unit testing for practice and review."
+  },
+  {
+    "passage_id": "P101",
+    "document_id": "D21",
+    "title": "Programming Information (SYNTHETIC)",
+    "category": "Programming Skills",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers string processing. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use string processing for practice and review."
+  },
+  {
+    "passage_id": "P102",
+    "document_id": "D21",
+    "title": "Programming Information (SYNTHETIC)",
+    "category": "Programming Skills",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers list operations. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use list operations for practice and review."
+  },
+  {
+    "passage_id": "P103",
+    "document_id": "D21",
+    "title": "Programming Information (SYNTHETIC)",
+    "category": "Programming Skills",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers tuple operations. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use tuple operations for practice and review."
+  },
+  {
+    "passage_id": "P104",
+    "document_id": "D21",
+    "title": "Programming Information (SYNTHETIC)",
+    "category": "Programming Skills",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers set operations. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use set operations for practice and review."
+  },
+  {
+    "passage_id": "P105",
+    "document_id": "D21",
+    "title": "Programming Information (SYNTHETIC)",
+    "category": "Programming Skills",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers dictionary operations. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use dictionary operations for practice and review."
+  },
+  {
+    "passage_id": "P106",
+    "document_id": "D22",
+    "title": "Programming Information (SYNTHETIC)",
+    "category": "Programming Skills",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers reading text files. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use reading text files for practice and review."
+  },
+  {
+    "passage_id": "P107",
+    "document_id": "D22",
+    "title": "Programming Information (SYNTHETIC)",
+    "category": "Programming Skills",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers writing JSON files. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use writing JSON files for practice and review."
+  },
+  {
+    "passage_id": "P108",
+    "document_id": "D22",
+    "title": "Programming Information (SYNTHETIC)",
+    "category": "Programming Skills",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers input validation. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use input validation for practice and review."
+  },
+  {
+    "passage_id": "P109",
+    "document_id": "D22",
+    "title": "Programming Information (SYNTHETIC)",
+    "category": "Programming Skills",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers modular programming. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use modular programming for practice and review."
+  },
+  {
+    "passage_id": "P110",
+    "document_id": "D22",
+    "title": "Programming Information (SYNTHETIC)",
+    "category": "Programming Skills",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers function parameters. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use function parameters for practice and review."
+  },
+  {
+    "passage_id": "P111",
+    "document_id": "D23",
+    "title": "Programming Information (SYNTHETIC)",
+    "category": "Programming Skills",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers return values. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use return values for practice and review."
+  },
+  {
+    "passage_id": "P112",
+    "document_id": "D23",
+    "title": "Programming Information (SYNTHETIC)",
+    "category": "Programming Skills",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers inheritance. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use inheritance for practice and review."
+  },
+  {
+    "passage_id": "P113",
+    "document_id": "D23",
+    "title": "Programming Information (SYNTHETIC)",
+    "category": "Programming Skills",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers encapsulation. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use encapsulation for practice and review."
+  },
+  {
+    "passage_id": "P114",
+    "document_id": "D23",
+    "title": "Programming Information (SYNTHETIC)",
+    "category": "Programming Skills",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers polymorphism. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use polymorphism for practice and review."
+  },
+  {
+    "passage_id": "P115",
+    "document_id": "D23",
+    "title": "Programming Information (SYNTHETIC)",
+    "category": "Programming Skills",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers recursion practice. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use recursion practice for practice and review."
+  },
+  {
+    "passage_id": "P116",
+    "document_id": "D24",
+    "title": "Programming Information (SYNTHETIC)",
+    "category": "Programming Skills",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers sorting algorithms. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use sorting algorithms for practice and review."
+  },
+  {
+    "passage_id": "P117",
+    "document_id": "D24",
+    "title": "Programming Information (SYNTHETIC)",
+    "category": "Programming Skills",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers search algorithms. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use search algorithms for practice and review."
+  },
+  {
+    "passage_id": "P118",
+    "document_id": "D24",
+    "title": "Programming Information (SYNTHETIC)",
+    "category": "Programming Skills",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers code readability. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use code readability for practice and review."
+  },
+  {
+    "passage_id": "P119",
+    "document_id": "D24",
+    "title": "Programming Information (SYNTHETIC)",
+    "category": "Programming Skills",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers error handling. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use error handling for practice and review."
+  },
+  {
+    "passage_id": "P120",
+    "document_id": "D24",
+    "title": "Programming Information (SYNTHETIC)",
+    "category": "Programming Skills",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers software testing. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use software testing for practice and review."
+  },
+  {
+    "passage_id": "P121",
+    "document_id": "D25",
+    "title": "Library Information (SYNTHETIC)",
+    "category": "Library Services",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers book search. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use book search for practice and review."
+  },
+  {
+    "passage_id": "P122",
+    "document_id": "D25",
+    "title": "Library Information (SYNTHETIC)",
+    "category": "Library Services",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers library catalogue. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use library catalogue for practice and review."
+  },
+  {
+    "passage_id": "P123",
+    "document_id": "D25",
+    "title": "Library Information (SYNTHETIC)",
+    "category": "Library Services",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers digital resources. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use digital resources for practice and review."
+  },
+  {
+    "passage_id": "P124",
+    "document_id": "D25",
+    "title": "Library Information (SYNTHETIC)",
+    "category": "Library Services",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers research references. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use research references for practice and review."
+  },
+  {
+    "passage_id": "P125",
+    "document_id": "D25",
+    "title": "Library Information (SYNTHETIC)",
+    "category": "Library Services",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers study space. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use study space for practice and review."
+  },
+  {
+    "passage_id": "P126",
+    "document_id": "D26",
+    "title": "Library Information (SYNTHETIC)",
+    "category": "Library Services",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers book return. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use book return for practice and review."
+  },
+  {
+    "passage_id": "P127",
+    "document_id": "D26",
+    "title": "Library Information (SYNTHETIC)",
+    "category": "Library Services",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers reading materials. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use reading materials for practice and review."
+  },
+  {
+    "passage_id": "P128",
+    "document_id": "D26",
+    "title": "Library Information (SYNTHETIC)",
+    "category": "Library Services",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers academic journals. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use academic journals for practice and review."
+  },
+  {
+    "passage_id": "P129",
+    "document_id": "D26",
+    "title": "Library Information (SYNTHETIC)",
+    "category": "Library Services",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers citation practice. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use citation practice for practice and review."
+  },
+  {
+    "passage_id": "P130",
+    "document_id": "D26",
+    "title": "Library Information (SYNTHETIC)",
+    "category": "Library Services",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers research planning. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use research planning for practice and review."
+  },
+  {
+    "passage_id": "P131",
+    "document_id": "D27",
+    "title": "Library Information (SYNTHETIC)",
+    "category": "Library Services",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers book classification. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use book classification for practice and review."
+  },
+  {
+    "passage_id": "P132",
+    "document_id": "D27",
+    "title": "Library Information (SYNTHETIC)",
+    "category": "Library Services",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers author search. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use author search for practice and review."
+  },
+  {
+    "passage_id": "P133",
+    "document_id": "D27",
+    "title": "Library Information (SYNTHETIC)",
+    "category": "Library Services",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers title search. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use title search for practice and review."
+  },
+  {
+    "passage_id": "P134",
+    "document_id": "D27",
+    "title": "Library Information (SYNTHETIC)",
+    "category": "Library Services",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers keyword search. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use keyword search for practice and review."
+  },
+  {
+    "passage_id": "P135",
+    "document_id": "D27",
+    "title": "Library Information (SYNTHETIC)",
+    "category": "Library Services",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers reference management. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use reference management for practice and review."
+  },
+  {
+    "passage_id": "P136",
+    "document_id": "D28",
+    "title": "Library Information (SYNTHETIC)",
+    "category": "Library Services",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers academic databases. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use academic databases for practice and review."
+  },
+  {
+    "passage_id": "P137",
+    "document_id": "D28",
+    "title": "Library Information (SYNTHETIC)",
+    "category": "Library Services",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers online journals. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use online journals for practice and review."
+  },
+  {
+    "passage_id": "P138",
+    "document_id": "D28",
+    "title": "Library Information (SYNTHETIC)",
+    "category": "Library Services",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers research keywords. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use research keywords for practice and review."
+  },
+  {
+    "passage_id": "P139",
+    "document_id": "D28",
+    "title": "Library Information (SYNTHETIC)",
+    "category": "Library Services",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers literature review. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use literature review for practice and review."
+  },
+  {
+    "passage_id": "P140",
+    "document_id": "D28",
+    "title": "Library Information (SYNTHETIC)",
+    "category": "Library Services",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers source evaluation. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use source evaluation for practice and review."
+  },
+  {
+    "passage_id": "P141",
+    "document_id": "D29",
+    "title": "Library Information (SYNTHETIC)",
+    "category": "Library Services",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers bibliography preparation. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use bibliography preparation for practice and review."
+  },
+  {
+    "passage_id": "P142",
+    "document_id": "D29",
+    "title": "Library Information (SYNTHETIC)",
+    "category": "Library Services",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers library membership. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use library membership for practice and review."
+  },
+  {
+    "passage_id": "P143",
+    "document_id": "D29",
+    "title": "Library Information (SYNTHETIC)",
+    "category": "Library Services",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers book availability. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use book availability for practice and review."
+  },
+  {
+    "passage_id": "P144",
+    "document_id": "D29",
+    "title": "Library Information (SYNTHETIC)",
+    "category": "Library Services",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers subject catalogue. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use subject catalogue for practice and review."
+  },
+  {
+    "passage_id": "P145",
+    "document_id": "D29",
+    "title": "Library Information (SYNTHETIC)",
+    "category": "Library Services",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers digital archives. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use digital archives for practice and review."
+  },
+  {
+    "passage_id": "P146",
+    "document_id": "D30",
+    "title": "Library Information (SYNTHETIC)",
+    "category": "Library Services",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers research notes. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use research notes for practice and review."
+  },
+  {
+    "passage_id": "P147",
+    "document_id": "D30",
+    "title": "Library Information (SYNTHETIC)",
+    "category": "Library Services",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers citation formats. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use citation formats for practice and review."
+  },
+  {
+    "passage_id": "P148",
+    "document_id": "D30",
+    "title": "Library Information (SYNTHETIC)",
+    "category": "Library Services",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers reading lists. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use reading lists for practice and review."
+  },
+  {
+    "passage_id": "P149",
+    "document_id": "D30",
+    "title": "Library Information (SYNTHETIC)",
+    "category": "Library Services",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers information retrieval. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use information retrieval for practice and review."
+  },
+  {
+    "passage_id": "P150",
+    "document_id": "D30",
+    "title": "Library Information (SYNTHETIC)",
+    "category": "Library Services",
+    "source": "SYNTHETIC - generated for a class project; not official university policy",
+    "version": "v1",
+    "date": "2026-10-01",
+    "text": "This synthetic example covers document search. The topic is included to demonstrate document retrieval, keyword matching, ranking, and evaluation. Students can use document search for practice and review."
+  }
+]

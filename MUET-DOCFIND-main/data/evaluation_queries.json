@@ -1,0 +1,95 @@
+[
+  {
+    "query_id": "Q01",
+    "query": "linked lists",
+    "answerable": true,
+    "relevant_passage_ids": [
+      "P002",
+      "P027"
+    ]
+  },
+  {
+    "query_id": "Q02",
+    "query": "binary search",
+    "answerable": true,
+    "relevant_passage_ids": [
+      "P010"
+    ]
+  },
+  {
+    "query_id": "Q03",
+    "query": "hash functions",
+    "answerable": true,
+    "relevant_passage_ids": [
+      "P024"
+    ]
+  },
+  {
+    "query_id": "Q04",
+    "query": "test boundary values",
+    "answerable": true,
+    "relevant_passage_ids": [
+      "P050"
+    ]
+  },
+  {
+    "query_id": "Q05",
+    "query": "midterm examination",
+    "answerable": true,
+    "relevant_passage_ids": [
+      "P061"
+    ]
+  },
+  {
+    "query_id": "Q06",
+    "query": "Python functions",
+    "answerable": true,
+    "relevant_passage_ids": [
+      "P091"
+    ]
+  },
+  {
+    "query_id": "Q07",
+    "query": "object oriented programming",
+    "answerable": true,
+    "relevant_passage_ids": [
+      "P092"
+    ]
+  },
+  {
+    "query_id": "Q08",
+    "query": "file operations",
+    "answerable": true,
+    "relevant_passage_ids": [
+      "P096"
+    ]
+  },
+  {
+    "query_id": "Q09",
+    "query": "library membership",
+    "answerable": true,
+    "relevant_passage_ids": [
+      "P142"
+    ]
+  },
+  {
+    "query_id": "Q10",
+    "query": "information retrieval",
+    "answerable": true,
+    "relevant_passage_ids": [
+      "P149"
+    ]
+  },
+  {
+    "query_id": "Q11",
+    "query": "GPU scheduling policy",
+    "answerable": false,
+    "relevant_passage_ids": []
+  },
+  {
+    "query_id": "Q12",
+    "query": "tuition fee refund deadline",
+    "answerable": false,
+    "relevant_passage_ids": []
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "passage_id": "P001",
+    "document_id": "D01",
+    "title": "Data Structures Course Outline (SYNTHETIC)",
+    "category": "Course Contents",
+    "source": "SYNTHETIC - made up for a class project, not official university policy",
+    "version": "v1",
+    "date": "2026-09-01",
+    "text": "This course covers arrays, linked lists, hash tables, heaps, searching and sorting."
+  },
+  {
+    "passage_id": "P002",
+    "document_id": "D01",
+    "title": "Data Structures Course Outline (SYNTHETIC)",
+    "category": "Course Contents",
+    "source": "SYNTHETIC - made up for a class project, not official university policy",
+    "version": "v1",
+    "date": "2026-09-01",
+    "text": "Students are expected to attend at least 75 percent of the lectures."
+  },
+  {
+    "passage_id": "P003",
+    "document_id": "D02",
+    "title": "Laboratory Guidelines (SYNTHETIC)",
+    "category": "Laboratory Rules",
+    "source": "SYNTHETIC - made up for a class project, not official university policy",
+    "version": "v1",
+    "date": "2026-09-05",
+    "text": "Students must save their work and submit lab files before leaving the laboratory."
+  },
+  {
+    "passage_id": "P004",
+    "document_id": "D03",
+    "title": "Midterm Examination Notice (SYNTHETIC)",
+    "category": "Examination Procedures",
+    "source": "SYNTHETIC - made up for a class project, not official university policy",
+    "version": "v1",
+    "date": "2026-09-10",
+    "text": "The midterm examination will be held in Week 8. This notice is replaced by version v2."
+  },
+  {
+    "passage_id": "P005",
+    "document_id": "D03",
+    "title": "Midterm Examination Notice (SYNTHETIC)",
+    "category": "Examination Procedures",
+    "source": "SYNTHETIC - made up for a class project, not official university policy",
+    "version": "v2",
+    "date": "2026-10-01",
+    "text": "The midterm examination has been moved to Week 9. Students should bring their ID cards."
+  }
+]
